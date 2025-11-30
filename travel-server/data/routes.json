@@ -1,26 +1,5 @@
 [
   {
-    "_id": "route_1764444631836_8b56bedvm",
-    "userId": "user_1764415065603_l848ls145",
-    "author": {
-      "nickname": "旅行者9356",
-      "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=15514689356"
-    },
-    "destination": "1",
-    "title": "1",
-    "content": "1",
-    "days": "1",
-    "budget": "1",
-    "tags": [],
-    "isPublic": true,
-    "images": [
-      "http://nora-monosymmetric-kay.ngrok-free.dev/uploads/1764444625825-photo.jpeg"
-    ],
-    "likes": 0,
-    "views": 0,
-    "createdAt": "2025-11-29T19:30:31.836Z"
-  },
-  {
     "_id": "route_1764442442618_odpq36nre",
     "userId": "user_1764415065603_l848ls145",
     "author": {
