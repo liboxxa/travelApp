@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>测试后端API</title>
+</head>
+<body>
+    <h1>测试后端AI接口</h1>
+    <button onclick="testAI()">测试AI</button>
+    <pre id="result"></pre>
+
+    <script>
+        async function testAI() {
+            const resultDiv = document.getElementById('result');
+            resultDiv.textContent = '正在调用...';
+            
+            try {
+                const response = await fetch('http://localhost:5000/api/ai/test', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        message: '推荐大理2日游路线'
+                    })
+                });
+                
+                const data = await response.json();
+                resultDiv.textContent = JSON.stringify(data, null, 2);
+            } catch (error) {
+                resultDiv.textContent = '错误: ' + error.message;
+            }
+        }
+    </script>
+</body>
+</html>

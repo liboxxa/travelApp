@@ -1,0 +1,104 @@
+[
+  {
+    "_id": "user_1764406989624_qfyjnya30",
+    "phone": "13800138000",
+    "nickname": "旅行者8000",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=13800138000",
+    "gender": "unknown",
+    "signature": "这个人很懒，什么都没留下~",
+    "preferences": [],
+    "stats": {
+      "publishedCount": 0,
+      "collectedCount": 0,
+      "extractCount": 0
+    },
+    "collections": [],
+    "createdAt": "2025-11-29T09:03:09.624Z",
+    "lastLoginAt": "2025-11-29T09:03:09.624Z"
+  },
+  {
+    "_id": "user_1764407673394_faddahmn2",
+    "phone": "13180531236",
+    "nickname": "旅行者1236",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=13180531236",
+    "gender": "unknown",
+    "signature": "这个人很懒，什么都没留下~",
+    "preferences": [],
+    "stats": {
+      "publishedCount": 0,
+      "collectedCount": 0,
+      "extractCount": 0
+    },
+    "collections": [],
+    "createdAt": "2025-11-29T09:14:33.394Z",
+    "lastLoginAt": "2025-11-29T11:34:27.468Z"
+  },
+  {
+    "_id": "user_1764411646894_b36vdy6b4",
+    "phone": "17859875098",
+    "nickname": "旅行者5098",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=17859875098",
+    "gender": "unknown",
+    "signature": "这个人很懒，什么都没留下~",
+    "preferences": [],
+    "stats": {
+      "publishedCount": 0,
+      "collectedCount": 0,
+      "extractCount": 0
+    },
+    "collections": [],
+    "createdAt": "2025-11-29T10:20:46.894Z",
+    "lastLoginAt": "2025-11-29T13:38:35.437Z"
+  },
+  {
+    "_id": "user_1764415065603_l848ls145",
+    "phone": "15514689356",
+    "nickname": "旅行者9356",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=15514689356",
+    "gender": "unknown",
+    "signature": "这个人很懒，什么都没留下~",
+    "preferences": [],
+    "stats": {
+      "publishedCount": 0,
+      "collectedCount": 0,
+      "extractCount": 0
+    },
+    "collections": [],
+    "createdAt": "2025-11-29T11:17:45.603Z",
+    "lastLoginAt": "2025-11-29T11:26:52.551Z"
+  },
+  {
+    "_id": "user_1764423604035_uy9eml9gp",
+    "phone": "19823796979",
+    "nickname": "旅行者6979",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=19823796979",
+    "gender": "unknown",
+    "signature": "这个人很懒，什么都没留下~",
+    "preferences": [],
+    "stats": {
+      "publishedCount": 0,
+      "collectedCount": 0,
+      "extractCount": 0
+    },
+    "collections": [],
+    "createdAt": "2025-11-29T13:40:04.035Z",
+    "lastLoginAt": "2025-11-29T13:40:04.035Z"
+  },
+  {
+    "_id": "user_1764445888364_b5hshnyq6",
+    "phone": "13150659458",
+    "nickname": "旅行者9458",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=13150659458",
+    "gender": "unknown",
+    "signature": "这个人很懒，什么都没留下~",
+    "preferences": [],
+    "stats": {
+      "publishedCount": 0,
+      "collectedCount": 0,
+      "extractCount": 0
+    },
+    "collections": [],
+    "createdAt": "2025-11-29T19:51:28.364Z",
+    "lastLoginAt": "2025-11-29T19:51:28.364Z"
+  }
+]
