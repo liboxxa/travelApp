@@ -4,7 +4,7 @@ const DEV_IP = '192.168.1.31';
 const PORT = '5000';
 
 // 基础 URL
-export const API_BASE_URL = 'https://travel-app-pi-ruddy.vercel.app';
+export const API_BASE_URL = 'https://travel-server.zeabur.app';
 
 // 接口路径常量
 export const ENDPOINTS = {
